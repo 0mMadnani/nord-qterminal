@@ -1,9 +1,16 @@
-[General]
-Version=0.1
+[Profiles]
+ColorForeground=#D8DEE9
+ColorBackground=#2E3440
+ColorCursorText=#2E3440
+ColorCursor=#D8DEE9
 
 [Colors]
-Background=#2E3440
-Foreground=#D8DEE9
+ColorForegroundNormal=#D8DEE9
+ColorBackgroundNormal=#2E3440
+ColorForegroundBold=#D8DEE9
+ColorBackgroundBold=#2E3440
+
+[Palette]
 Color0=#3B4252
 Color1=#BF616A
 Color2=#A3BE8C
